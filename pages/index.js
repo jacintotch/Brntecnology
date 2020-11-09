@@ -6,6 +6,8 @@ function Home() {
             <h1>Home_Brn</h1>
             <contador />
         </div>
+        <a href="facebook.com">facebook</a>
+
     )
 }
 function contador(){
