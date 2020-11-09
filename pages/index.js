@@ -4,7 +4,7 @@ function Home() {
     return (
         <div>
             <h1>Home_Brn</h1>
-            <a href="facebook.com">facebook</a>
+            <a href="jd.html">Noticia</a>
             <contador />
         </div>
 
