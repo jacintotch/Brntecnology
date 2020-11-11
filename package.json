@@ -1,16 +1,8 @@
 {
   "name": "Brntecnology",
   "version": "1.0.0",
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "",
   "main": "index.js",
-  "dependencies": {
-    "next": "^10.0.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "^4.0.0",
-    "web-vitals": "^0.2.4"
-  },
-  "devDependencies": {},
   "scripts": {
     "next dev"
   },
@@ -24,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/jacintotch/Brntecnology/issues"
   },
-  "homepage": "https://github.com/jacintotch/Brntecnology#readme"
+  "homepage": "https://github.com/jacintotch/Brntecnology#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
